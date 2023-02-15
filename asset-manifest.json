@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/sunbrightsoftwaresolutions/static/css/main.1d412fcf.css",
-    "main.js": "/sunbrightsoftwaresolutions/static/js/main.9f83c3e9.js",
-    "static/media/development.jpg": "/sunbrightsoftwaresolutions/static/media/development.6b73fc60b62f7528ac9e.jpg",
-    "static/media/building.jpg": "/sunbrightsoftwaresolutions/static/media/building.c25354c7e1b2aa96058f.jpg",
-    "static/media/building2.jpg": "/sunbrightsoftwaresolutions/static/media/building2.c5719ff08fb1ef0fc310.jpg",
-    "static/media/banner11.jpg": "/sunbrightsoftwaresolutions/static/media/banner11.022bec51c7f4e2f20dc7.jpg",
-    "static/media/logo11.png": "/sunbrightsoftwaresolutions/static/media/logo11.647df4496d4f98270391.png",
-    "static/media/revicons.eot": "/sunbrightsoftwaresolutions/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/sunbrightsoftwaresolutions/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/sunbrightsoftwaresolutions/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/sunbrightsoftwaresolutions/index.html",
-    "main.1d412fcf.css.map": "/sunbrightsoftwaresolutions/static/css/main.1d412fcf.css.map",
-    "main.9f83c3e9.js.map": "/sunbrightsoftwaresolutions/static/js/main.9f83c3e9.js.map"
+    "main.css": "/sunbright/static/css/main.f0a4ba4e.css",
+    "main.js": "/sunbright/static/js/main.d27a5393.js",
+    "static/media/development.jpg": "/sunbright/static/media/development.6b73fc60b62f7528ac9e.jpg",
+    "static/media/building.jpg": "/sunbright/static/media/building.c25354c7e1b2aa96058f.jpg",
+    "static/media/building2.jpg": "/sunbright/static/media/building2.c5719ff08fb1ef0fc310.jpg",
+    "static/media/banner11.jpg": "/sunbright/static/media/banner11.022bec51c7f4e2f20dc7.jpg",
+    "static/media/logo11.png": "/sunbright/static/media/logo11.647df4496d4f98270391.png",
+    "static/media/revicons.eot": "/sunbright/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/sunbright/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/sunbright/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/sunbright/index.html",
+    "main.f0a4ba4e.css.map": "/sunbright/static/css/main.f0a4ba4e.css.map",
+    "main.d27a5393.js.map": "/sunbright/static/js/main.d27a5393.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d412fcf.css",
-    "static/js/main.9f83c3e9.js"
+    "static/css/main.f0a4ba4e.css",
+    "static/js/main.d27a5393.js"
   ]
 }
