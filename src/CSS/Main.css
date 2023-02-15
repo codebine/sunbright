@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    font-family: 'poppins';
+}
+
+/*Home page*/
+.Home .carousel-inner {
+    height: 350px;
+    display: flex;
+}
+
+.Home .carousel-caption {
+    position: absolute;
+    right: 15%;
+    top: 8.85rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: white;
+    text-align: center;
+}
+
+.Home .Headin {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Home .card {
+    display: flex;
+    flex-wrap: nowrap;
+    scale: 120px;
+    width: 18rem;
+    height: 22rem;
+    margin: 15px;
+    padding: 10px 0px;
+    transition: .2s ease;
+}
+
+.Home .card .btn-square2 {
+    width: 64px;
+    height: 64px;
+    color: #097fec;
+    margin: auto;
+}
+
+.Home .card .btn-square2 i {
+    width: 64px;
+    height: 64px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Home .card-body h5 {
+    text-align: center;
+}
+
+.Home .card-body {
+    flex: 1 1 auto;
+    padding: 0px 5px 0px 5px;
+    color: var(--bs-card-color);
+}
+
+.Home h1 {
+    text-align: center;
+}
+
+.Home .card:hover {
+    transform: scale(1.06);
+}
+
+/*About page*/
+.Abtpage {
+    height: 70vh;
+}
+
+/*Contact page*/
+.cntpage {
+    height: 92vh;
+}
+
+.cntpage h1 {
+    text-align: center;
+}
+
+.cntpage .container {
+    border-radius: 2px solid;
+}
+
+/*Careers page*/
+.Careers {
+    height: 68vh;
+}
+
+.Careers h1 {
+    text-align: center;
+}
+
+.Careers.txt h4 {
+    text-align: center;
+}
+
+.Careers .nav-pills .nav-link {
+    background: #add8e6;
+    border: 0;
+    border-radius: 0;
+    border-right: 3px solid #c3bebe;
+    color: black;
+}
+
+.Careers .nav-pills .nav-link:hover {
+    background: white !important;
+    border: 0;
+    border-radius: 0;
+    border-right: 3px solid dodgerblue !important;
+    color: black !important;
+}
+
+.Careers .nav-pills .nav-link.active {
+    color: black !important;
+    background: white !important;
+    border-right: 3px solid dodgerblue !important;
+}
+
+/*Service page*/
+.Services {
+    height: 80vh;
+}
+.Services h1 {
+    text-align: center;
+}
+.Services .txt h4 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.Services .nav-pills .nav-link {
+    background: #add8e6;
+    border: 0;
+    border-radius: 0;
+    border-right: 3px solid #c3bebe;
+    color: black;
+}
+
+.Services .nav-pills .nav-link:hover {
+    background: white !important;
+    border: 0;
+    border-radius: 0;
+    border-right: 3px solid dodgerblue !important;
+    color: black !important;
+
+}
+
+.Services .nav-pills .nav-link.active {
+    color: black !important;
+    background: white !important;
+    border-right: 3px solid dodgerblue !important;
+}
+/*industries*/
+.Industries {
+    height: 80vh;
+}
+/*Media Queries*/
+@media screen and (max-width: 1080px) {
+    .Services {
+        height: 100vh;
+    }
+
+    .Careers {
+        height: 107vh;
+    }
+
+    .Abtpage {
+        height: 100vh;
+    }
+    .Industries {
+        height: 100vh;
+    }
+}
