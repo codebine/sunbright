@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sunbright/static/css/main.e4648519.css",
+    "main.css": "/sunbright/static/css/main.8b482ea8.css",
     "main.js": "/sunbright/static/js/main.67094c34.js",
     "static/media/development.jpg": "/sunbright/static/media/development.6b73fc60b62f7528ac9e.jpg",
     "static/media/building.jpg": "/sunbright/static/media/building.c25354c7e1b2aa96058f.jpg",
@@ -11,11 +11,11 @@
     "static/media/revicons.ttf": "/sunbright/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/sunbright/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/sunbright/index.html",
-    "main.e4648519.css.map": "/sunbright/static/css/main.e4648519.css.map",
+    "main.8b482ea8.css.map": "/sunbright/static/css/main.8b482ea8.css.map",
     "main.67094c34.js.map": "/sunbright/static/js/main.67094c34.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4648519.css",
+    "static/css/main.8b482ea8.css",
     "static/js/main.67094c34.js"
   ]
 }
