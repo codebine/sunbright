@@ -17,11 +17,17 @@ const Home = () => {
       items: 4,
       slidesToSlide: 1
     },
+    tablet1: {
+      breakpoint: { max: 1024, min: 1400 },
+      items: 3,
+      slidesToSlide: 1
+    },
     tablet: {
-      breakpoint: { max: 1200, min: 464 },
+      breakpoint: { max: 1024, min: 464 },
       items: 2,
       slidesToSlide: 2
     },
+   
     mobile: {
       breakpoint: { max: 464, min: 0 },
       items: 1,
