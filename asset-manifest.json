@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sunbright/static/css/main.a5e2488f.css",
-    "main.js": "/sunbright/static/js/main.d4a9d649.js",
+    "main.js": "/sunbright/static/js/main.a12c0350.js",
     "static/media/development.jpg": "/sunbright/static/media/development.6b73fc60b62f7528ac9e.jpg",
     "static/media/building.jpg": "/sunbright/static/media/building.c25354c7e1b2aa96058f.jpg",
     "static/media/building2.jpg": "/sunbright/static/media/building2.c5719ff08fb1ef0fc310.jpg",
@@ -12,10 +12,10 @@
     "static/media/revicons.woff": "/sunbright/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/sunbright/index.html",
     "main.a5e2488f.css.map": "/sunbright/static/css/main.a5e2488f.css.map",
-    "main.d4a9d649.js.map": "/sunbright/static/js/main.d4a9d649.js.map"
+    "main.a12c0350.js.map": "/sunbright/static/js/main.a12c0350.js.map"
   },
   "entrypoints": [
     "static/css/main.a5e2488f.css",
-    "static/js/main.d4a9d649.js"
+    "static/js/main.a12c0350.js"
   ]
 }
