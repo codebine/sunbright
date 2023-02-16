@@ -17,12 +17,7 @@ const Home = () => {
       items: 3,
       slidesToSlide: 1
     },
-    tablet1: {
-      breakpoint: { max: 1024, min: 1400 },
-      items: 3,
-      slidesToSlide: 1
-    },
-    tablet: {
+   tablet: {
       breakpoint: { max: 1024, min: 464 },
       items: 2,
       slidesToSlide: 2
